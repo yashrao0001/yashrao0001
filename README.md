@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @yashrao0001
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on An open Source Project
-- 📫 How to reach me ... 1. LinkedIn :   2. Instagram :      3. Contact Number:
-
-<!---
-yashrao0001/yashrao0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m YASH YADAV.
+- 👀 I’m interested in Web Development, Web Designing, open source contributions.
+- 🌱 I’m a Frontend Web Developer.
+- 💞️ I’m looking to collaborate on An open Source Project.
+- 📫 How to reach me ...
+-  1. LinkedIn : https://www.linkedin.com/in/yashrao001?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app.
+- 2. Email : yyash7796@gmail.com.
+- 3. Contact Number : 8860018601
