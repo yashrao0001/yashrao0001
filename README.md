@@ -1,8 +1,8 @@
 - 👋 Hi, I’m YASH YADAV.
 - 👀 I’m interested in Web Development, Web Designing, open source contributions.
-- 🌱 I’m a Frontend Web Developer.
-- 💞️ I’m looking to collaborate on An open Source Project.
+- 🌱 I’m a Full Stack Web Developer.
+- 💞️ I’m looking to collaborate on an open Source Project.
 - 📫 How to reach me ...
--  1. LinkedIn : https://www.linkedin.com/in/yashrao001?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app.
-- 2. Email : yyash7796@gmail.com.
-- 3. Contact Number : 8860018601
+-  1. LinkedIn : www.linkedin.com/in/yashrao001
+-  2. Email : yyash7796@gmail.com
+-  3. Contact Number : 8860018601
